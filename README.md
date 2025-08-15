@@ -158,7 +158,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-*Add your contact information here*
+*abhashsth@gmail.com*
 
 ---
 
